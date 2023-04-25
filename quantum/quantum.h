@@ -26,6 +26,7 @@
 
 #ifdef LED_MATRIX_ENABLE
 #    include "led_matrix.h"
+#   define DRIVER_LED_TOTAL 60
 #endif
 
 #if defined(RGBLIGHT_ENABLE)

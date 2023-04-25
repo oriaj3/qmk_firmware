@@ -173,3 +173,4 @@ bool get_fn_layer_transparent_keys_off(void) {
 bool get_fn_layer_color_enable(void) {
     return user_config.fn_layer_color_enable;
 }
+
